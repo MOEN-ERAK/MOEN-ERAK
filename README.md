@@ -2,9 +2,9 @@
 
 🚀 I’m a web developer who loves Vue.js, Laravel, and building modern apps.
 
-<center>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MOEN-ERAK&hide_border=true" alt="GitHub Streak" /></a>
-</center>
+</div>
 
 
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
